@@ -4,6 +4,7 @@ on:
   push:
     paths:
       - ".github/workflows/profile-animation.yml"
+      - "assets/profile.jpg"
   workflow_dispatch:
 
 permissions:
@@ -20,7 +21,7 @@ jobs:
         run: |
           python -m pip install --quiet pillow
           mkdir -p assets
-          curl -L "https://avatars.githubusercontent.com/u/221368820?v=4" -o /tmp/profile.jpg
+          cp assets/profile.jpg /tmp/profile.jpg
           python - <<'PY'
           from PIL import Image, ImageEnhance
           import math
