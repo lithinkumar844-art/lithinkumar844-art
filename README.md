@@ -194,9 +194,9 @@ A civic-technology project focused on turning public/community data into meaning
 </td>
 <td width="50%">
 
-### 👓 Smart Living
+### 🍽️ Restaurant Food Management
 
-Assistive technology concept using **Camera + ToF + IMU + Edge AI + Voice/Haptic feedback** for visually impaired users.
+Smart restaurant management system focused on **food inventory, order tracking, stock monitoring, and efficient restaurant operations**.
 
 </td>
 </tr>
@@ -341,7 +341,7 @@ Kangeyam Institute of Technology
 
 I’m interested in building technology where **AI + Data + Cloud** meet real-world problems.
 
-From environmental systems like **NEERX** to assistive technology and intelligent applications, I want to keep turning learning into useful prototypes and solutions.
+From environmental systems like **NEERX** to practical applications such as **Restaurant Food Management**, I want to keep turning learning into useful prototypes and solutions.
 
 ---
 
