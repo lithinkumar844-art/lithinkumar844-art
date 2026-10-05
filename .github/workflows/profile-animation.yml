@@ -79,11 +79,19 @@ jobs:
                          outline=(230,190,85,150), width=3)
               canvas = Image.alpha_composite(canvas, ring)
 
-              # Anime image
-              fr = frames[i % len(frames)]
+              # Anime character: subtle floating / swaying motion
+              fr = frames[i % len(frames)].copy()
+              angle = 2.2 * math.sin(2 * math.pi * i / total)
+              scale = 1.0 + 0.025 * math.sin(2 * math.pi * i / total + 0.7)
+              nw = max(1, int(fr.width * scale))
+              nh = max(1, int(fr.height * scale))
+              fr = fr.resize((nw, nh), Image.Resampling.LANCZOS)
+              fr = fr.rotate(angle, resample=Image.Resampling.BICUBIC, expand=True)
+              bob_x = int(10 * math.sin(2 * math.pi * i / total))
+              bob_y = int(8 * math.sin(4 * math.pi * i / total))
               fw, fh = fr.size
-              px = (W-fw)//2
-              py = (H-fh)//2
+              px = (W-fw)//2 + bob_x
+              py = (H-fh)//2 + bob_y
               canvas.alpha_composite(fr, (px, py))
               out.append(canvas.convert("P", palette=Image.Palette.ADAPTIVE))
 
