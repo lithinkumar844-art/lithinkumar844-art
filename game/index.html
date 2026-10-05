@@ -17,14 +17,14 @@ button{margin-top:14px;padding:11px 22px;border:1px solid #f5c542;background:#f5
 </div>
 <script>
 const c=document.getElementById('game'),x=c.getContext('2d'),scoreEl=document.getElementById('score'),btn=document.getElementById('restart');
-let keys={},player,nodes,score,running=false,last=0,spawn=0;
-function reset(){player={x:450,y:480,r:18,s:330};nodes=[];score=0;spawn=0;running=true;scoreEl.textContent=0}
+let keys={},player,nodes,score,running=false,last=0,spawn=0,gameStarted=false;
+function reset(){player={x:450,y:480,r:18,s:330};nodes=[];score=0;spawn=0;running=true;gameStarted=true;scoreEl.textContent=0;last=performance.now()}
 function node(){let r=8+Math.random()*14;nodes.push({x:r+Math.random()*(900-2*r),y:-r,r,vy:120+Math.random()*90+score*.8,vx:(Math.random()-.5)*35})}
 function update(dt){let dx=(keys.ArrowRight||keys.d?1:0)-(keys.ArrowLeft||keys.a?1:0),dy=(keys.ArrowDown||keys.s?1:0)-(keys.ArrowUp||keys.w?1:0);let m=Math.hypot(dx,dy)||1;player.x=Math.max(player.r,Math.min(900-player.r,player.x+dx/m*player.s*dt));player.y=Math.max(player.r,Math.min(560-player.r,player.y+dy/m*player.s*dt));spawn+=dt;if(spawn>.45){node();spawn=0}for(const n of nodes){n.y+=n.vy*dt;n.x+=n.vx*dt;let d=Math.hypot(n.x-player.x,n.y-player.y);if(d<n.r+player.r){running=false}}nodes=nodes.filter(n=>n.y<590);score+=dt*10;scoreEl.textContent=Math.floor(score)}
 function draw(){x.clearRect(0,0,900,560);x.fillStyle='#070707';x.fillRect(0,0,900,560);x.strokeStyle='#241d0b';x.lineWidth=1;for(let i=0;i<900;i+=45){x.beginPath();x.moveTo(i,0);x.lineTo(i,560);x.stroke()}for(let i=0;i<560;i+=45){x.beginPath();x.moveTo(0,i);x.lineTo(900,i);x.stroke()}
 for(const n of nodes){x.shadowBlur=18;x.shadowColor='#f5c542';x.fillStyle='#f5c542';x.beginPath();x.arc(n.x,n.y,n.r,0,Math.PI*2);x.fill();x.shadowBlur=0}
 x.strokeStyle='#f5c542';x.lineWidth=3;x.beginPath();x.arc(player.x,player.y,player.r+5,0,Math.PI*2);x.stroke();x.fillStyle='#f5c542';x.beginPath();x.arc(player.x,player.y,player.r,0,Math.PI*2);x.fill();x.fillStyle='#050505';x.beginPath();x.arc(player.x-6,player.y-3,3,0,7);x.arc(player.x+6,player.y-3,3,0,7);x.fill();
 if(!running){x.fillStyle='#000b';x.fillRect(0,0,900,560);x.fillStyle='#f5c542';x.textAlign='center';x.font='800 42px system-ui';x.fillText(score?'GAME OVER':'READY',450,260);x.font='18px system-ui';x.fillStyle='#fff';x.fillText(score?'Press START / RESTART to try again':'Press START / RESTART to begin',450,300)}}
-function loop(t){let dt=Math.min((t-last)/1000,.04);last=t;if(running)update(dt);draw();requestAnimationFrame(loop)}btn.onclick=reset;addEventListener('keydown',e=>{keys[e.key]=true;if(['ArrowUp','ArrowDown','ArrowLeft','ArrowRight',' '].includes(e.key))e.preventDefault()});addEventListener('keyup',e=>keys[e.key]=false);
-c.addEventListener('pointermove',e=>{if(e.buttons&&running){let r=c.getBoundingClientRect();player.x=(e.clientX-r.left)/r.width*900;player.y=(e.clientY-r.top)/r.height*560}});draw();requestAnimationFrame(loop);
+function loop(t){let dt=Math.min((t-last)/1000,.04);last=t;if(running)update(dt);draw();requestAnimationFrame(loop)}btn.onclick=reset; c.addEventListener('click',()=>{if(!gameStarted||!running)reset()});addEventListener('keydown',e=>{keys[e.key]=true;if(['ArrowUp','ArrowDown','ArrowLeft','ArrowRight',' '].includes(e.key))e.preventDefault()});addEventListener('keyup',e=>keys[e.key]=false);
+c.addEventListener('pointermove',e=>{if(e.buttons&&running){let r=c.getBoundingClientRect();player.x=(e.clientX-r.left)/r.width*900;player.y=(e.clientY-r.top)/r.height*560}});reset();draw();requestAnimationFrame(loop);
 </script></body></html>
