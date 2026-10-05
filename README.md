@@ -38,25 +38,47 @@
 <td width="72%">
 
 ```text
-lithinkumar@github:~$ ./profile --load
+lithinkumar@github:~$ ./profile --about
 
-> NAME
-  Lithinkumar P
+╭──────────────────────────────────────────────╮
+│              LITHINKUMAR P                   │
+╰──────────────────────────────────────────────╯
 
-> ROLE
-  Data Science Student
+[ROLE]
+→ Data Science Student
+→ B.Tech AI & Data Science | 3rd Year
 
-> FOCUS
-  AI • Data • GenAI • Cloud
+[FOCUS]
+→ Data Analytics
+→ Generative AI
+→ Cloud Computing
+→ AI Applications
 
-> COMMUNITY
-  IEEE • GDG • AI & Data Science
+[LEADERSHIP]
+→ VP — AI & Data Science
+→ IEEE Day 2026 Ambassador
+→ IEEE Student Branch
+→ GDG Member
 
-> CURRENTLY BUILDING
-  NEERX
+[BUILDING]
+→ NEERX
+→ RAG Applications
+→ Data & AI Projects
 
-> STATUS
-  ● ONLINE / BUILDING
+[TECH]
+→ Python • Java • SQL
+→ LangChain • Streamlit • ChromaDB
+→ Git • GitHub • Cloud
+
+[LEARNING]
+→ Java & DSA
+→ Advanced GenAI
+→ Cloud Deployment
+
+[STATUS]
+● ONLINE
+● BUILDING
+● LEARNING
 
 lithinkumar@github:~$ _
 ```
@@ -65,7 +87,6 @@ lithinkumar@github:~$ _
 </tr>
 </table>
 
-> **Design note:** The photo slot is intentionally reserved. Your real photo can be added without changing the rest of the README design.
 
 ---
 
