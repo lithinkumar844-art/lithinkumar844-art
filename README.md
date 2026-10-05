@@ -20,45 +20,15 @@
 
 ---
 
-<!-- ===================== TERMINAL PROFILE ===================== -->
+<!-- ===================== PROFILE PHOTO ===================== -->
 
-## 🖥️ Terminal Profile
-
-<table>
-<tr>
-<td width="28%" align="center">
+<div align="center">
 
 <img src="./assets/profile-moving.gif"
      width="220"
-     alt="Lithinkumar P animated anime avatar">
-<br/><br/>
+     alt="Lithinkumar P animated profile photo">
 
-</td>
-
-<td width="72%">
-
-```text
-lithinkumar@github:~$ ./profile
-
-╭────────────────────────────────────────────╮
-│  LITHINKUMAR P                             │
-│  Data Science Student                      │
-│                                            │
-│  AI • DATA • GENAI • CLOUD                 │
-│                                            │
-│  VP — AI & Data Science                    │
-│  IEEE Day 2026 Ambassador                  │
-│                                            │
-│  ● ONLINE                                  │
-╰────────────────────────────────────────────╯
-
-lithinkumar@github:~$ _
-```
-
-</td>
-</tr>
-</table>
-
+</div>
 
 ---
 
