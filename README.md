@@ -28,10 +28,10 @@
 <tr>
 <td width="28%" align="center">
 
-<img src="./assets/profile.jpg" width="180" alt="Lithinkumar P"/>
+<img src="./assets/profile-anime.gif"
+     width="220"
+     alt="Lithinkumar P animated anime avatar">
 <br/><br/>
-
-**📸 PHOTO SPACE**
 
 </td>
 
