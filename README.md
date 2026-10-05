@@ -28,8 +28,7 @@
 <tr>
 <td width="28%" align="center">
 
-<img src="./assets/profile-placeholder.svg" width="180" alt="Profile photo placeholder"/>
-
+<img src="./assets/profile.jpg" width="180" alt="Lithinkumar P"/>
 <br/><br/>
 
 **📸 PHOTO SPACE**
