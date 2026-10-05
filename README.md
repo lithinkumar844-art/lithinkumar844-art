@@ -24,7 +24,7 @@
 
 <div align="center">
 
-<img src="./assets/profile-anime.gif"
+<img src="./assets/profile-motion.gif"
      width="220"
      alt="Lithinkumar P animated profile photo">
 
