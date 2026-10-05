@@ -33,8 +33,6 @@
 
 **📸 PHOTO SPACE**
 
-Replace `assets/profile-placeholder.svg` with your professional photo later.
-
 </td>
 
 <td width="72%">
