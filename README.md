@@ -1,105 +1,329 @@
-# 👋 Hi, I'm Lithinkumar P
+<!-- ===================== HERO ===================== -->
 
-### Data Science Student • AI & Data Science • Developer
+<div align="center">
 
-I'm a 3rd-year **B.Tech Artificial Intelligence & Data Science** student at **Kangeyam Institute of Technology**, passionate about turning ideas into practical technology solutions.
+<a href="https://github.com/lithinkumar844-art">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:111827,100:0b1220&text=LITHINKUMAR%20P&fontColor=F8FAFC&fontSize=48&fontAlignY=38&desc=DATA%20SCIENCE%20STUDENT%20%7C%20GENAI%20%7C%20DATA%20%7C%20CLOUD&descAlignY=60&descSize=17&animation=fadeIn" width="100%" alt="Lithinkumar P hero banner"/>
+</a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lithinkumar-p)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lithinkumar844-art)
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+practical+technology+solutions;Exploring+Generative+AI+%26+RAG;Learning+Java+%7C+Data+%7C+Cloud;Leading+%26+building+with+student+communities" alt="Typing animation"/>
+</a>
+
+<br/>
+
+<a href="https://www.linkedin.com/in/lithinkumar-p"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:lithinkumar844@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/lithinkumar844-art"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+</div>
 
 ---
 
-## 🚀 About Me
+<!-- ===================== TERMINAL PROFILE ===================== -->
 
-- 🎓 B.Tech Artificial Intelligence & Data Science — 3rd Year
+## 🖥️ Terminal Profile
+
+<table>
+<tr>
+<td width="28%" align="center">
+
+<img src="./assets/profile-placeholder.svg" width="180" alt="Profile photo placeholder"/>
+
+<br/><br/>
+
+**📸 PHOTO SPACE**
+
+Replace `assets/profile-placeholder.svg` with your professional photo later.
+
+</td>
+
+<td width="72%">
+
+```text
+lithinkumar@github:~$ ./profile --load
+
+> NAME
+  Lithinkumar P
+
+> ROLE
+  Data Science Student
+
+> FOCUS
+  AI • Data • GenAI • Cloud
+
+> COMMUNITY
+  IEEE • GDG • AI & Data Science
+
+> CURRENTLY BUILDING
+  NEERX
+
+> STATUS
+  ● ONLINE / BUILDING
+
+lithinkumar@github:~$ _
+```
+
+</td>
+</tr>
+</table>
+
+> **Design note:** The photo slot is intentionally reserved. Your real photo can be added without changing the rest of the README design.
+
+---
+
+## 🧠 About Me
+
+I'm a **3rd-year B.Tech Artificial Intelligence & Data Science student** at **Kangeyam Institute of Technology**, focused on building practical solutions with data, software and emerging AI technologies.
+
+- 🎓 B.Tech AI & Data Science — 3rd Year
 - 🧑‍💼 **Vice President — AI & Data Science Department**
-- 🌐 **IEEE Day 2026 Ambassador**
-- ⚡ **IEEE Student Branch Official Social Media Handler**
+- 🎖️ **IEEE Day 2026 Ambassador**
+- 📣 **IEEE KIT Student Branch Official Social Media Handler**
 - 🤝 **GDG Member**
 - ☁️ Google Cloud & NVIDIA Community Member
 - ☁️ AWS Student Community Member
-- 💡 Interested in **Data Analytics, AI, Generative AI, Cloud Computing and Software Development**
-- 🛠️ I enjoy building projects for **real-world, environmental, civic and assistive-technology problems**
-
-## 🧭 Current Learning Path
-
-**Java → Python → SQL & Data Analytics → Machine Learning → Generative AI → LLMs & RAG → AI Agents → FastAPI & Docker → Cloud Deployment**
-
-## 🛠️ Tech Stack
-
-### Languages & Data
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-### AI, GenAI & Data
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-5A3FC0?style=flat-square)
-
-**Data Analytics • Generative AI • LLMs • RAG • AI Agents**
-
-### Development & Cloud
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+- 📊 Interested in **Data Analytics, Generative AI, Cloud & Software Development**
+- 🌱 Learning by building projects around **environmental, civic and assistive-technology problems**
 
 ---
 
-## ⭐ Featured Projects
+## ⚡ Developer Mission
 
-### 🌊 NEERX — Autonomous River Cleaning & Water Quality Monitoring
-An autonomous floating robot concept designed for river cleaning, aquatic weed removal and water-quality monitoring.
+```text
+                    ┌───────────────┐
+                    │   GENERATIVE  │
+                    │      AI       │
+                    └───────┬───────┘
+                            │
+             ┌──────────────┼──────────────┐
+             │              │              │
+        ┌────▼────┐    ┌────▼────┐    ┌────▼────┐
+        │   DATA  │    │   RAG   │    │  CLOUD  │
+        └────┬────┘    └────┬────┘    └────┬────┘
+             │              │              │
+             └──────────────┼──────────────┘
+                            │
+                    ┌───────▼───────┐
+                    │  REAL-WORLD   │
+                    │    IMPACT     │
+                    └───────────────┘
+```
 
-**Focus:** IoT • Sensors • Robotics • Embedded Systems • Data Analytics • AI
+**Mission:** Learn → Build → Experiment → Share
 
-**MSME Idea Hackathon 6.0 — Advanced to Next Stage**
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages & Data
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🤖 AI / GenAI / Data
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-5A3FC0?style=for-the-badge)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
+**Data Analytics • LLMs • RAG • Generative AI • AI Agents**
+
+### ☁️ Development & Cloud
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+---
+
+## 🚀 Currently Building — NEERX
+
+<div align="center">
+
+### 🌊 NEERX
+**Autonomous River Cleaning & Water-Quality Monitoring**
+
+</div>
+
+A floating robot concept focused on **aquatic weed removal, waste collection and water-quality monitoring**.
+
+**Focus:** IoT • Sensors • Robotics • Embedded Systems • Data Analytics • Environmental Technology
+
+🏆 **MSME Idea Hackathon 6.0 — Advanced to Next Stage**  
+🧪 **Current maturity: TRL 3–4**
+
+---
+
+## 🧩 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
 
 ### 🤖 Dynamic RAG Chatbot
+
 A retrieval-augmented chatbot with a dynamic knowledge base, vector search and interactive interface.
 
 **Stack:** Python • LangChain • ChromaDB • Streamlit • LLMs • RAG
 
+</td>
+<td width="50%">
+
 ### 🛡️ AML Shield X
+
 A financial-risk analysis concept focused on identifying suspicious activity and generating useful analytical insights.
 
 **Focus:** Financial Data • Risk Analysis • Analytics • AI
 
+</td>
+</tr>
+<tr>
+<td width="50%">
+
 ### 🏙️ CivicPulse
+
 A civic-technology project focused on turning public/community data into meaningful insights and decision support.
 
-### 🎓 Student Learning Path
-A personalized learning-path concept that uses learner information to recommend structured learning directions.
+</td>
+<td width="50%">
 
 ### 👓 Smart Living
-Assistive technology concept for visually impaired users using camera, ToF and IMU sensing with edge AI, voice and haptic feedback.
 
-**Focus:** Navigation • Obstacle Detection • Fall Detection • Emergency Assistance
+Assistive technology concept using **Camera + ToF + IMU + Edge AI + Voice/Haptic feedback** for visually impaired users.
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🏆 Achievements & Recognition
+## 🗺️ My Journey
 
-- 🚀 MSME Idea Hackathon 6.0 — Advanced to Next Stage
-- 🥈 Waste to Wealth — 2nd Prize
-- 🥈 Fashion Show — 2nd Prize
-- 🏅 KGISL Student of the Year
-- 🏅 Abdul Kalam Award
-- 🎖️ ICAT — AIR 1928
-- 🌐 IEEE Day 2026 Ambassador
-- 🤝 IEEE Student Branch Leadership
-- ☁️ Google Cloud & NVIDIA Community Member
-- ☁️ AWS Student Community Member
+```text
+  2024                 2025                    2026                 NEXT
+    │                    │                       │                    │
+    ▼                    ▼                       ▼                    ▼
+ Projects          Leadership              GenAI Internship       Industry
+    │               & Communities           RAG / LLMs             Projects
+    │                    │                       │                    │
+    └───────────────┬────┴───────────────────────┴────────────────────┘
+                    │
+                    ▼
+             BUILD • LEARN • LEAD
+```
 
-## 📚 Certifications & Learning
+---
+
+## 👥 Leadership & Community
+
+| Role | Community |
+|---|---|
+| 🧑‍💼 Vice President | AI & Data Science Department |
+| 🎖️ Ambassador | IEEE Day 2026 |
+| 📣 Social Media Handler | IEEE KIT Student Branch |
+| 🤝 Member | GDG |
+| ☁️ Community Member | Google Cloud & NVIDIA |
+| ☁️ Student Member | AWS Student Community |
+
+---
+
+## 🏆 Achievement Wall
+
+<div align="center">
+
+| 🏆 Recognition | 📌 Highlight |
+|---|---|
+| 🚀 MSME Idea Hackathon 6.0 | Advanced to Next Stage |
+| 🥈 Waste to Wealth | 2nd Prize |
+| 🥈 Fashion Show | 2nd Prize |
+| 🏅 KGISL | Student of the Year |
+| 🏅 Abdul Kalam Award | Recognition |
+| 🎖️ ICAT | AIR 1928 |
+| 🎖️ IEEE | IEEE Day 2026 Ambassador |
+
+</div>
+
+---
+
+## 💼 Experience
+
+### Elevance Skills — Industry Intern
+**Generative AI & Data Science • Jul 2026 – Sep 2026 • Remote**
+
+**Project:** *Applied Learn To Build A Real-Time GenAI Customer Service Bot*
+
+Worked with concepts including:
+
+**RAG • LLMs • Vector Databases • Streamlit • Dynamic Knowledge Bases • Medical Q&A • Multimodal AI • Sentiment Analysis • Multilingual AI**
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=lithinkumar844-art&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" height="165" alt="GitHub statistics"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lithinkumar844-art&layout=compact&hide_border=true&theme=transparent" height="165" alt="Top languages"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=lithinkumar844-art&hide_border=true&theme=transparent" width="70%" alt="GitHub streak"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Activity
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/lithinkumar844-art/lithinkumar844-art/output/github-contribution-grid-snake.svg" alt="Animated GitHub contribution snake" width="90%"/>
+
+</div>
+
+---
+
+## 📚 Currently Learning
+
+```text
+JAVA
+  └── Programming & Problem Solving
+
+DATA
+  ├── SQL
+  └── Data Analytics
+
+GENAI
+  ├── LLMs
+  ├── RAG
+  └── AI Agents
+
+BACKEND
+  ├── FastAPI
+  └── Docker
+
+CLOUD
+  └── Deployment & Cloud Architecture
+```
+
+---
+
+## 🎓 Education
+
+**B.Tech — Artificial Intelligence & Data Science**  
+Kangeyam Institute of Technology  
+**3rd Year • CGPA: 7.80**
+
+---
+
+## 📜 Certifications & Learning
 
 - Accent Techno Soft — Cloud Computing Internship Training
 - HP LIFE — AI for Beginners
@@ -111,41 +335,40 @@ Assistive technology concept for visually impaired users using camera, ToF and I
 - IIRS / ISRO Learning Programs
 - NPTEL — Data Science
 
-## 👨‍💼 Leadership & Community
+---
 
-I believe technology becomes more valuable when it is shared.
+## 🌐 Beyond Code
 
-Through my roles in **AI & Data Science, IEEE and student communities**, I work on technical events, learning initiatives, digital communication, workshops and opportunities that help students build practical skills.
+I’m interested in building technology where **AI + Data + Cloud** meet real-world problems.
 
-## 📊 GitHub Analytics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lithinkumar844-art&show_icons=true&hide_border=true&rank_icon=github)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lithinkumar844-art&layout=compact&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=lithinkumar844-art&hide_border=true)
-
-## 🐍 Contribution Activity
-
-![Contribution Snake](https://raw.githubusercontent.com/lithinkumar844-art/lithinkumar844-art/output/github-contribution-grid-snake.svg)
+From environmental systems like **NEERX** to assistive technology and intelligent applications, I want to keep turning learning into useful prototypes and solutions.
 
 ---
 
-## 🌱 Beyond Code
+## 🤝 Let's Build Something
 
-I’m especially interested in building technology that connects **AI + Data + Cloud + Real-World Impact**.
+<div align="center">
 
-From environmental solutions like **NEERX** to assistive technology and intelligent applications, my goal is simple:
+<a href="https://www.linkedin.com/in/lithinkumar-p">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:lithinkumar844@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/lithinkumar844-art">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-> **Learn. Build. Experiment. Share.**
+<br/><br/>
+
+**✦ LEARN • BUILD • EXPERIMENT • SHARE ✦**
+
+</div>
 
 ---
 
-## 🤝 Let's Connect
+<div align="center">
 
-If you're interested in **AI, Data Analytics, Generative AI, Cloud, student communities or collaborative projects**, feel free to connect.
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f172a,50:111827,100:0b1220&animation=fadeIn" width="100%" alt="Animated footer"/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lithinkumar%20P-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lithinkumar-p)
-[![GitHub](https://img.shields.io/badge/GitHub-lithinkumar844--art-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lithinkumar844-art)
-
-### ✨ Turning ideas into practical technology solutions. 🚀
+</div>
