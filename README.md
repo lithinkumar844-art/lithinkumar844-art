@@ -240,6 +240,22 @@ Worked with concepts including:
 
 ---
 
+## 🎮 Mini Game — Dodge the Nodes
+
+<div align="center">
+
+**Can you survive the incoming AI nodes?**
+
+<a href="https://lithinkumar844-art.github.io/lithinkumar844-art/game/">
+<img src="https://img.shields.io/badge/🎮%20PLAY%20DODGE%20THE%20NODES-F5C542?style=for-the-badge&labelColor=050505" alt="Play Dodge the Nodes"/>
+</a>
+
+<br/><sub>WASD / Arrow Keys • Touch supported • Increasing difficulty</sub>
+
+</div>
+
+---
+
 ## 🐍 Contribution Activity
 
 <div align="center">
