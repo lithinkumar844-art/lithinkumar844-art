@@ -38,47 +38,19 @@
 <td width="72%">
 
 ```text
-lithinkumar@github:~$ ./profile --about
+lithinkumar@github:~$ ./profile
 
-╭──────────────────────────────────────────────╮
-│              LITHINKUMAR P                   │
-╰──────────────────────────────────────────────╯
-
-[ROLE]
-→ Data Science Student
-→ B.Tech AI & Data Science | 3rd Year
-
-[FOCUS]
-→ Data Analytics
-→ Generative AI
-→ Cloud Computing
-→ AI Applications
-
-[LEADERSHIP]
-→ VP — AI & Data Science
-→ IEEE Day 2026 Ambassador
-→ IEEE Student Branch
-→ GDG Member
-
-[BUILDING]
-→ NEERX
-→ RAG Applications
-→ Data & AI Projects
-
-[TECH]
-→ Python • Java • SQL
-→ LangChain • Streamlit • ChromaDB
-→ Git • GitHub • Cloud
-
-[LEARNING]
-→ Java & DSA
-→ Advanced GenAI
-→ Cloud Deployment
-
-[STATUS]
-● ONLINE
-● BUILDING
-● LEARNING
+╭────────────────────────────────────────────╮
+│  LITHINKUMAR P                             │
+│  Data Science Student                      │
+│                                            │
+│  AI • DATA • GENAI • CLOUD                 │
+│                                            │
+│  VP — AI & Data Science                    │
+│  IEEE Day 2026 Ambassador                  │
+│                                            │
+│  ● ONLINE                                  │
+╰────────────────────────────────────────────╯
 
 lithinkumar@github:~$ _
 ```
