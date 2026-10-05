@@ -1,4 +1,5 @@
 name: Build Profile Animation
+# Generates the moving image from assets/profile.jpg
 
 on:
   push:
