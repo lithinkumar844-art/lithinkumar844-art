@@ -28,7 +28,7 @@
 <tr>
 <td width="28%" align="center">
 
-<img src="./assets/profile-anime.gif"
+<img src="./assets/profile-moving.gif"
      width="220"
      alt="Lithinkumar P animated anime avatar">
 <br/><br/>
